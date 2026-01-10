@@ -4,7 +4,7 @@ A collection of C projects built while learning programming from the ground up. 
 
 ## 📚 About This Repository
 
-This repository documents my journey through **"C Programming: A Modern Approach" by K.N. King** and beyond. Each project focuses on applying specific concepts in practical, working programs.
+This repository documents my journey through C langauge. Each project focuses on applying specific concepts in practical, working programs.
 
 ### Why C?
 - Learn how computers actually work at a low level
