@@ -28,17 +28,17 @@ Unlike a simple single-file script, this project is built with a focus on **modu
 ## Game preview
 ```
 --- Round 1 ---
-Number guessed: 50 
+Number guessed:  
 Enter your guess: 75
 	TOO LOW!
 
 --- Round 2 ---
-Number guessed: 50 75 95
+Number guessed: 75 95
 Enter your guess: 95    
 	TOO HIGH!
 
 --- Round 3 ---
-Number guessed: 50 75 90 95 93
+Number guessed: 75 95
 Enter your guess: 93
 
 	--- YOU WIN! ---
