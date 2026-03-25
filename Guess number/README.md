@@ -23,6 +23,7 @@ Unlike a simple single-file script, this project is built with a focus on **modu
 ├── main.c         # Main execution loop and UI
 ├── random.c       # Core logic and RNG functions
 └── random.h       # Function prototypes and Enums
+```
 
 ## Game preview
 ```
