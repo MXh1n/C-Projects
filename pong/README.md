@@ -2,7 +2,7 @@
 
 A high-performance, fully featured clone of the classic arcade game Pong, written entirely in C using the Raylib framework. This project focuses on manual memory management, real-time multimedia processing (audio/graphics), and vector-based 2D physics.
 
-make run<img width="849" height="530" alt="gameplay" src="https://github.com/user-attachments/assets/167b4604-0990-44bb-b1fe-2ada353af319" />
+<img width="849" height="530" alt="gameplay" src="https://github.com/user-attachments/assets/167b4604-0990-44bb-b1fe-2ada353af319" />
 
 ## Features
 
@@ -43,15 +43,10 @@ To successfully link the game engine with your system hardware, the following fl
    cd C-Projects/pong
 ```
 Compile and Run:
-    The project includes a Makefile configured for Linux. You can compile and execute immediately with:
+   The project includes a Makefile configured for Linux. You can compile and execute immediately with:
 
- Bash
-
-
-
-Manual Compilation:
-    If you do not have make installed, use the following GCC command:
-    Bash
+   If you do not have make installed, use the following GCC command:
+   Bash
     
     
     gcc pong.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -o pong
