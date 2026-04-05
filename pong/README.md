@@ -36,18 +36,19 @@ To successfully link the game engine with your system hardware, the following fl
 ## Installation and Build
 
 1. **Clone the repository:**
-   ```bash
+   bash
+```
    git clone [https://github.com/MXh1n/C-Projects.git](https://github.com/MXh1n/C-Projects.git)
    cd C-Projects/pong
-
+```
 Compile and Run:
     The project includes a Makefile configured for Linux. You can compile and execute immediately with:
 
-    Bash
+ Bash
 
-    make run
+make run
 
-    Manual Compilation:
+Manual Compilation:
     If you do not have make installed, use the following GCC command:
     Bash
     
