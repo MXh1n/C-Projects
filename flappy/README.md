@@ -8,7 +8,7 @@
 ## Demo
 
 ### Gameplay
-<video src="images/flappy video.mp4" controls width="100%"></video>
+<video src="images/flappy_video.mp4" controls width="100%"></video>
 
 <br>
 
