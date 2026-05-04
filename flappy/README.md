@@ -3,15 +3,6 @@
 > A fully functional Flappy Bird clone written from scratch in **pure C**, built without a game engine.  
 > Every system — physics, animation, collision, audio, state management — is implemented manually at the code level.
 
-<br>
-
-## Demo
-
-### Gameplay
-<video src="images/flappy_video.mp4" controls width="100%"></video>
-
-<br>
-
 ### Screenshots
 
 | Menu | Gameplay | Game Over |
@@ -199,6 +190,15 @@ CloseWindow();
 <br>
 
 ---
+## Built Rules
+```
+make exe && ./bin/game
+```
+Or
+```
+make run
+```
+
 
 ## Built With
 
